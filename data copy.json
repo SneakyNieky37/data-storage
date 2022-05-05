@@ -1,0 +1,13 @@
+{
+  "warehouse": [
+    {
+      "box1": [
+        {
+          "location": "A1",
+          "hallway": 2
+        }
+      ]
+      
+    }
+  ]
+}
